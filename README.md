@@ -42,23 +42,17 @@
         </ul>
 		</section>
     <section>
-			<h2>General Information</h2>
-			<p>Page 1 will cover the following general information about me!</p>
+			<h2>College Classes Taken</h2>
+			<p>Page 4 will cover all my classes so far:</p>
         <ul>
-          <li>Age</li>
-          <li>Major</li>
-          <li>Hometown</li>
-          <li>and more</li>
+          <li>In a few weeks I will have completed my first year and these are all the classes I have taken</li>
         </ul>
 		</section>
     <section>
-			<h2>General Information</h2>
-			<p>Page 1 will cover the following general information about me!</p>
+			<h2>Code Block</h2>
+			<p>Page 5 contains a block of code</p>
         <ul>
-          <li>Age</li>
-          <li>Major</li>
-          <li>Hometown</li>
-          <li>and more</li>
+					<li>I wanted to highligh a noteworthy project that I have completed in my INFOTC classes</li>
         </ul>
 		</section>
 	</main>
