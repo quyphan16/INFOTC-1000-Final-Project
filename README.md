@@ -13,7 +13,6 @@
 			<ul>
 				<li>This front page will serve as a navigation portal containing several links to the different pages.</li>
 			</ul>
-			<img scr="FullSizeRender.jpg" width="400" height="400">
 		</nav>
 	</header>
 	<main>
