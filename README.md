@@ -13,7 +13,6 @@
 			<ul>
 				<li>This front page will serve as a navigation portal containing several links to the different pages.</li>
 			</ul>
-			<img scr="project.jpg">
 		</nav>
 	</header>
 	<main>
@@ -26,6 +25,7 @@
           <li>Hometown</li>
           <li>and more</li>
         </ul>
+				<p>Click this <a href="about.html">link</a> to be redirected</p>
 		</section>
 		<section>
 			<h2>My Major Choice</h2>
@@ -41,6 +41,7 @@
         <ul>
           <li>I have a large passion and enjoyment for traveling so these are some of my favorite places I have been to</li>
         </ul>
+				<p>Click this <a href="about.html">link</a> to be redirected</p>
 		</section>
     <section>
 			<h2>College Classes Taken</h2>
@@ -48,6 +49,7 @@
         <ul>
           <li>In a few weeks I will have completed my first year and these are all the classes I have taken</li>
         </ul>
+				<p>Click this <a href="about.html">link</a> to be redirected</p>
 		</section>
     <section>
 			<h2>Code Block</h2>
@@ -55,6 +57,7 @@
         <ul>
 					<li>I wanted to highligh a noteworthy project that I have completed in my INFOTC classes</li>
         </ul>
+				<p>Click this <a href="about.html">link</a> to be redirected</p>
 		</section>
 	</main>
 	<footer>
