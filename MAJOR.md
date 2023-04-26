@@ -2,8 +2,12 @@
 <html>
   <body>
     <h1>General Information Page</h1>
-    <h3>Brief Summary about Me:</h2>
-    <p>My name is Quy Phan, and I am currently a student here at the University of Missouri-Columbia. I am 18 years of age, being on the younger side with my birthday being in the summer. I am also from St.Louis, Missouri and I am studying Information Technology as my major. My main current passion outside of academics is weightlifting and photography. My favorite movie of all time is <i>Interstellar</i>, because I am a big science fiction movie fan.</p>
+    <h3>Why I Chose IT as a Major?:</h2>
+    <p>I have always had a fond interest in everything technology from smartphones to personal computers. I love how technology is always evolving and changing every year with new innovations coming out from major technology companys to smaller startups. This childhood passion of mine has lead me to purse a career in Information Technology.</p>
+    <h3>Future Career Plans</h3>
+    <p>As for my future career, I want to use my Information Technology to pursue a software developer job after college. My dream job is work for a large corpation including Google and Amazon.</p>
+    <h3>More Information on IT</h3>
+    <p>If you are interested on learning more about this major, click this <a href="https://en.wikipedia.org/wiki/Information_technology">link</a> to be redirected to a Wiki page.</p>
     <img src="https://www.worldatlas.com/r/w960-q80/upload/d5/87/4c/shutterstock-1196389171.jpg">
     <p>Use this <a href=”README.md”>link</a> to return back to the main page.</p>
   </body>
