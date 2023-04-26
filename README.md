@@ -25,7 +25,7 @@
           <li>Hometown</li>
           <li>and more</li>
         </ul>
-				<p>Click this <a href="about.html">link</a> to be redirected</p>
+				<p>Click this <a href="GEN-INFO.md">link</a> to be redirected</p>
 		</section>
 		<section>
 			<h2>My Major Choice</h2>
