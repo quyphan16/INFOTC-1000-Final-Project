@@ -34,6 +34,7 @@
 				<li>Reasoning for choosing this major</li>
 				<li>Future plans</li>
 			</ul>
+			<p>Click this <a href="MAJOR.md">link</a> to be redirected</p>
 		</section>
     <section>
 			<h2>Favorite Destinations</h2>
@@ -41,7 +42,7 @@
         <ul>
           <li>I have a large passion and enjoyment for traveling so these are some of my favorite places I have been to</li>
         </ul>
-				<p>Click this <a href="about.html">link</a> to be redirected</p>
+				<p>Click this <a href="DEST.md">link</a> to be redirected</p>
 		</section>
     <section>
 			<h2>College Classes Taken</h2>
@@ -49,7 +50,7 @@
         <ul>
           <li>In a few weeks I will have completed my first year and these are all the classes I have taken</li>
         </ul>
-				<p>Click this <a href="about.html">link</a> to be redirected</p>
+				<p>Click this <a href="CLASSES.md">link</a> to be redirected</p>
 		</section>
     <section>
 			<h2>Code Block</h2>
@@ -57,7 +58,7 @@
         <ul>
 					<li>I wanted to highligh a noteworthy project that I have completed in my INFOTC classes</li>
         </ul>
-				<p>Click this <a href="about.html">link</a> to be redirected</p>
+				<p>Click this <a href="CODEBLOCK.md">link</a> to be redirected</p>
 		</section>
 	</main>
 	<footer>
