@@ -9,7 +9,7 @@
     <h3>More Information on IT</h3>
     <p>If you are interested on learning more about this major, click this <a href="https://en.wikipedia.org/wiki/Information_technology">link</a> to be redirected to a Wiki page.</p>
     <img src="IT.jpg">
-    <p>Use this <a href=”README.md”>link</a> to return back to the main page.</p>
+    <p>Use this <a href=README.md>link</a> to return back to the main page.</p>
   </body>
 </html>
 
